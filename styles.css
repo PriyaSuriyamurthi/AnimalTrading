@@ -1,0 +1,42 @@
+/* add your CSS here */
+body{
+	box-shadow: 1px 4px 8px 1px rgba(0, 0, 0, 0.3), 1px 6px 20px 1px rgba(0, 0, 0, 0.3);
+	max-width:100%;
+	width:320px;
+	padding:10px;
+	font-family: "Roboto", sans-serif;
+}
+
+/** Modify the font of Heading**/
+h3{
+	font-size: 30px;
+}
+
+/** set the width of the image**/
+img{
+	width:100%;
+}
+
+/** create a box for innersect**/
+#innersec{
+	padding:10px;
+	margin-top:10px;
+	box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+/** modify the style for ul element**/
+ul{
+	padding-left: 0px;
+	list-style-type:none;
+}
+
+/** modify the font for the portion of li**/
+.fontchange{
+	font-weight:bold;
+}
+
+/** modify the font style for the portion of li**/
+.fontmodify{
+	text-align: justify;
+	font-style: italic;
+}
